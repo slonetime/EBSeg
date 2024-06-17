@@ -1,0 +1,20 @@
+1:aeroplane,airplane,aeroplanes,airplanes
+2:bicycle,bicycles,bike,bikes
+3:bird,birds
+4:boat,boats
+5:bottle,bottles,water bottle
+6:bus,buses
+7:car,cars
+8:cat,cats,kitties,kitty
+9:chair,chairs
+10:cow,cows,calf
+11:diningtable,dining table,diningtables,dining tables,plate,plates
+12:dog,dogs,puppy,puppies
+13:horse,horses,foal
+14:motorbike,motorcycle,motorbikes,motorcycles
+15:person,child,girl,boy,woman,man,people,childeren,girls,boys,women,men,lady,guy,ladies,guys,clothes
+16:pottedplant,pottedplants,plant pot,plant pots,planter,planters
+17:sheep
+18:sofa,sofas
+19:train,trains,locomotive,locomotives,freight train
+20:tvmonitor,monitor,tv
