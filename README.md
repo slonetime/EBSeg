@@ -54,4 +54,4 @@ bash test.sh
 
 Our code are based on [SAN](https://github.com/MendelXu/SAN), [CLIP](https://github.com/openai/CLIP), [CLIP Surgery](https://github.com/xmed-lab/CLIP_Surgery), [Mask2former](https://github.com/facebookresearch/Mask2Former) and [ODISE](https://github.com/NVlabs/ODISE).
 
-We thanks them for their excellent works!
+Thank them for their excellent works!
